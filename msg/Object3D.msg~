@@ -1,0 +1,7 @@
+uint64 x
+uint64 y
+uint64 z
+uint64 width
+uint64 height
+string type
+
